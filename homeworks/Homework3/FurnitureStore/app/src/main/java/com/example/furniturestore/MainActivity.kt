@@ -166,11 +166,7 @@ fun Anasayfa (darkTheme: Boolean = isSystemInDarkTheme()) {
             ) {
                 Text(text = stringResource(R.string.add_to_bag), fontWeight = FontWeight.Bold, fontSize = 22.sp)
             }
-
-
-
         }
-
     }
 }
 
