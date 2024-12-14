@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mobilya Mağazası</string>
+    <string name="title_furniture">MOBİLYA</string>
+    <string name="product_name">Willa Yemek Sandalyesi</string>
+    <string name="product_description">Willa\'nın ince, ancak sağlam siyah metal çerçevesi ve yuvarlak oturma yeri, klasik bir orta yüzyıl tasarımına çağdaş bir güncelleme getiriyor.</string>
+    <string name="price_original">3290 ₺</string>
+    <string name="price_discounted">2470 ₺</string>
+    <string name="price_savings">(820 ₺ tasarruf edin)</string>
+    <string name="dimensions">Boyutlar</string>
+    <string name="overall">Genel</string>
+    <string name="seating">Oturma</string>
+    <string name="overall_size">47cm g * 53cm d * 79cm y</string>
+    <string name="seating_size">41cm g * 47cm d * 46cm y</string>
+    <string name="add_to_bag">Sepete Ekle</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Furniture Store</string>
+    <string name="title_furniture">FURNITURE</string>
+    <string name="product_name">Willa Dining Chair</string>
+    <string name="product_description">The Willa\'s slim, yet sturdy black metal frame and rounded seat brings a contemporary update to a classic mid-century design.</string>
+    <string name="price_original">3290 ₺</string>
+    <string name="price_discounted">2470 ₺</string>
+    <string name="price_savings">(Save 820 ₺)</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="overall">Overall</string>
+    <string name="seating">Seating</string>
+    <string name="overall_size">18.5\'w * 21\'d * 31\'h</string>
+    <string name="seating_size">16\'w * 18.5\'d * 18\'h</string>
+    <string name="add_to_bag">Add To Bag</string>
+</resources>
