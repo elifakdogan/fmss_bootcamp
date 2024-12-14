@@ -43,5 +43,5 @@ Katkılarınızı memnuniyetle karşılıyorum! Lütfen bir *pull request* gönd
 
 Herhangi bir sorunuz varsa benimle iletişime geçmekten çekinmeyin:
 
-- E-posta: [e-posta adresiniz](mailto:elifakdgn1@gmail.com)
-- LinkedIn: [LinkedIn profiliniz](https://www.linkedin.com/in/elif-akdo%C4%9Fan-826414226/)
+- E-posta: [e-Mail](mailto:elifakdgn1@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elif-akdo%C4%9Fan-826414226/)
