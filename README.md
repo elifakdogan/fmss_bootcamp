@@ -16,13 +16,12 @@ FMSS Bootcamp kapsamında öğrendiğim *Kotlin* dilindeki becerilerimi gelişti
 
 ## Projeler ve Ödevler
 
-| Proje/Ödev Adı       | Açıklama                                                               | Tarih      |
-|----------------------|------------------------------------------------------------------------|------------|
-| Ödev 1               | Kotlin diline giriş: Temel veri türleri ve değişken tanımlama çalışması | 05.12.2024 |
-| Ödev 2               | Fonksiyonlar ve metodlar: Geometri, maaş hesaplama ve metot uygulamaları | 10.12.2024 |
-| Ödev 3               | Furniture Store tasarımı: Ürün mağazası için tek sayfalık bir           | 14.12.2024 |
-|                      | kullanıcı arayüzü tasarımı geliştirme                                 |            |
-
+| Proje/Ödev Adı | Açıklama                                                                                                | Tarih      |
+|----------------|---------------------------------------------------------------------------------------------------------|------------|
+| Ödev 1         | Kotlin diline giriş: Temel veri türleri ve değişken tanımlama çalışması                                 | 05.12.2024 |
+| Ödev 2         | Fonksiyonlar ve metodlar: Geometri, maaş hesaplama ve metot uygulamaları                                | 10.12.2024 |
+| Ödev 3         | Furniture Store tasarımı: Ürün mağazası için tek sayfalık bir kullanıcı arayüzü tasarımı geliştirme     | 14.12.2024 |
+| Ödev 4         | Page Flow: Navigation Component kullanarak çok sayfalı bir uygulama tasarımı ve sayfalar arası geçişler | 15.12.2024 |
 
 ## Kullanım
 
